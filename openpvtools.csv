@@ -11,3 +11,4 @@ Solpy,General purpose PV modeling,2011-2015,solpy.readthedocs.io,github.com/nrch
 PVMismatch,IV curve calculator for mismatched cells,2012 - *,sunpower.github.io/PVMismatch/,github.com/SunPower/PVMismatch,Python,BSD 3
 photovoltaic,General purpose PV modeling,2017 - *,github.com/trautsned/photovoltaic,github.com/trautsned/photovoltaic,Python,GPL 3
 feedinlib,PV timeseries modeling,2015 - *,github.com/oemof/feedinlib,github.com/oemof/feedinlib,Python,GPL 3
+CASSYS,PV system modeling,2015 - *,github.com/CanadianSolar/CASSYS,github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
