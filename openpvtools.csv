@@ -4,7 +4,7 @@ PVLib Python,General purpose PV modeling,2013 - *,pvlib-python.readthedocs.io,gi
 System Advisory Model,"Desktop app for PV, wind, CSP modeling, financial",2013 - *,sam.nrel.gov,github.com/NREL/SAM,C++,Mixed MIT/GPL 3
 ssc,Compute modules for SAM,2010 - *,sam.nrel.gov,github.com/nrel/ssc,"C, C++",Mixed MIT/GPL 3
 rdtools,PV degradation,2017 - *,github.com/NREL/rdtools,github.com/NREL/rdtools,Python,MIT
-PVFree,API for obtaining PV modeling parameters,2015 - *,pvfree.herokuapp.com,github.com/SunPower/pvfree,Python,Unlicensed
+PVFree,API for obtaining PV modeling parameters,2015 - *,pvfree.herokuapp.com,github.com/BreakingBytes/pvfree,Python,BSD 2
 SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,github.com/SunPower/SolarUtils,github.com/SunPower/SolarUtils,Python,BSD 3
 Pecos,Performance monitoring,2016 - *,pecos.readthedocs.io,github.com/sandialabs/pecos,Python,BSD 3
 Solpy,General purpose PV modeling,2011-2015,solpy.readthedocs.io,github.com/nrcharles/solpy,Python,LGPL 2.1
