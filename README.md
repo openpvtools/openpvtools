@@ -3,8 +3,8 @@ openpvtools
 
 A catalog of open source tools for solar energy.
 
-See [openpvtools.csv](openpvtools.csv) for the list.
+Please see [openpvtools.readthedocs.io](https://openpvtools.readthedocs.io/en/latest/) for a nicely rendered version of the open source PV tools list.
 
-This repository will eventually contain a simple website that renders the linked table.
+The [openpvtools.csv](openpvtools.csv) file contains the list of tools.
 
-Please submit pull requests with new projects or updates.
+Please submit pull requests with new projects or updates!
