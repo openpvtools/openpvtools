@@ -106,6 +106,10 @@ html_static_path = ['_static']
 htmlhelp_basename = 'openpvtoolsdoc'
 
 
+def setup(app):
+    app.add_stylesheet('theme_override.css')
+
+
 # -- Options for LaTeX output ------------------------------------------------
 
 latex_elements = {
