@@ -12,4 +12,5 @@ PVMismatch,IV curve calculator for mismatched cells,2012 - *,sunpower.github.io/
 photovoltaic,General purpose PV modeling,2017 - *,github.com/trautsned/photovoltaic,github.com/trautsned/photovoltaic,Python,GPL 3
 feedinlib,PV timeseries modeling,2015 - *,github.com/oemof/feedinlib,github.com/oemof/feedinlib,Python,GPL 3
 CASSYS,PV system modeling,2015 - *,github.com/CanadianSolar/CASSYS,github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
-Bifacial PV View Factor model,Bifacial modeling, 2017 - *,github.com/NREL/bifacialvf,github.com/NREL/bifacialvf,Python,Unknown
+Bifacial PV View Factor model,Bifacial modeling,2017 - *,github.com/NREL/bifacialvf,github.com/NREL/bifacialvf,Python,Unknown
+solaR,General purpose PV modeling,2010 - *,github.com/oscarperpinan/solar,www.jstatsoft.org/article/view/v050i09,R,GPL 3
