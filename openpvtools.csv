@@ -14,3 +14,4 @@ feedinlib,PV timeseries modeling,2015 - *,github.com/oemof/feedinlib,github.com/
 CASSYS,PV system modeling,2015 - *,github.com/CanadianSolar/CASSYS,github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
 Bifacial PV View Factor model,Bifacial modeling,2017 - *,github.com/NREL/bifacialvf,github.com/NREL/bifacialvf,Python,Unknown
 solaR,General purpose PV modeling,2010 - *,github.com/oscarperpinan/solar,www.jstatsoft.org/article/view/v050i09,R,GPL 3
+pvfactors,Diffuse shading and bifacial irradiance modeling,2016 - *,sunpower.github.io/pvfactors/,github.com/SunPower/pvfactors,Python,BSD 3
