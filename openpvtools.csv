@@ -3,7 +3,7 @@ PVLib Matlab,General purpose PV modeling,2012? - *,pvpmc.sandia.gov,github.com/s
 PVLib Python,General purpose PV modeling,2013 - *,pvlib-python.readthedocs.io,github.com/pvlib/pvlib-python,Python,BSD 3
 System Advisor Model,"Desktop app for PV, wind, CSP modeling, financial",2004 - *,sam.nrel.gov,github.com/NREL/SAM,C++,Mixed MIT/GPL 3
 ssc,Compute modules for SAM,2004 - *,sam.nrel.gov,github.com/nrel/ssc,"C, C++",Mixed MIT/GPL 3
-rdtools,Technical analysis of PV timeseries data,2017 - *,github.com/NREL/rdtools,github.com/NREL/rdtools,Python,MIT
+RdTools,Technical analysis of PV timeseries data,2016 - *,rdtools.readthedocs.io,github.com/NREL/rdtools,Python,MIT
 PVFree,API for obtaining PV modeling parameters,2015 - *,pvfree.herokuapp.com,github.com/BreakingBytes/pvfree,Python,BSD 2
 SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,github.com/SunPower/SolarUtils,github.com/SunPower/SolarUtils,Python,BSD 3
 Pecos,Performance monitoring,2016 - *,pecos.readthedocs.io,github.com/sandialabs/pecos,Python,BSD 3
