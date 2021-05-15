@@ -17,3 +17,5 @@ solaR,General purpose PV modeling,2010 - *,github.com/oscarperpinan/solar,www.js
 pvfactors,Diffuse shading and bifacial irradiance modeling,2016 - *,sunpower.github.io/pvfactors/,github.com/SunPower/pvfactors,Python,BSD 3
 pvcaptest,Capacity testing per ASTM E2848,2017 - ,pvcaptest.readthedocs.io/,github.com/pvcaptest/pvcaptest,Python,MIT
 SolarData,Accessing public solar datasets,2018 - ,github.com/dazhiyang/SolarData,github.com/dazhiyang/SolarData,R,GPL 2
+SolCore,modelling solar cells and semiconductor materials,2017 -- *,solcore.solar,github.com/qpv-research-group/solcore5,Python,LGPL 3
+PVplr,analysis of Performance Loss Rates,2020 -- *,doi.org/10.1109/PVSC45281.2020.9300807,cran.r-project.org/package=PVplr,R,BSD 3
