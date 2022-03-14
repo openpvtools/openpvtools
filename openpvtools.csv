@@ -19,3 +19,4 @@ pvcaptest,Capacity testing per ASTM E2848,2017 - ,pvcaptest.readthedocs.io/,gith
 SolarData,Accessing public solar datasets,2018 - ,github.com/dazhiyang/SolarData,github.com/dazhiyang/SolarData,R,GPL 2
 SolCore,modelling solar cells and semiconductor materials,2017 -- *,solcore.solar,github.com/qpv-research-group/solcore5,Python,LGPL 3
 PVplr,analysis of Performance Loss Rates,2020 -- *,doi.org/10.1109/PVSC45281.2020.9300807,cran.r-project.org/package=PVplr,R,BSD 3
+PVAnalytics,PV data QA and analysis,2020 - *,pvanalytics.readthedocs.io,github.com/pvlib/pvanalytics,Python,MIT
