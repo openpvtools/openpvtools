@@ -5,7 +5,7 @@ System Advisor Model (SAM),"Desktop app for PV, wind, CSP modeling, financial",2
 ssc,Compute modules for SAM,2004 - *,https://sam.nrel.gov,https://github.com/nrel/ssc,"C, C++",Mixed MIT/GPL 3
 RdTools,Technical analysis of PV timeseries data,2016 - *,https://rdtools.readthedocs.io,https://github.com/NREL/rdtools,Python,MIT
 PVFree,API for obtaining PV modeling parameters,2015 - *,https://pvfree.azurewebsites.net,https://github.com/BreakingBytes/pvfree,Python,BSD 2
-SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,https://github.com/SunPower/SolarUtils,https://github.com/SunPower/SolarUtils,Python,BSD 3
+SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,https://sunpower.github.io/SolarUtils/,https://github.com/SunPower/SolarUtils,Python,BSD 3
 Pecos,Performance monitoring,2016 - *,https://pecos.readthedocs.io,https://github.com/sandialabs/pecos,Python,BSD 3
 Solpy,General purpose PV modeling,2011-2015,https://solpy.readthedocs.io,https://github.com/nrcharles/solpy,Python,LGPL 2.1
 PVMismatch,IV curve calculator for mismatched cells,2012 - *,https://sunpower.github.io/PVMismatch/,https://github.com/SunPower/PVMismatch,Python,BSD 3
