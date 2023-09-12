@@ -1,24 +1,24 @@
 Name,Purpose,Years developed,Documentation Website,Development Website,Primary Language,License
-PVLib Matlab,General purpose PV modeling,2012? - *,pvpmc.sandia.gov,github.com/sandialabs/MATLAB_PV_LIB,Matlab,BSD 3
-PVLib Python,General purpose PV modeling,2013 - *,pvlib-python.readthedocs.io,github.com/pvlib/pvlib-python,Python,BSD 3
-System Advisor Model,"Desktop app for PV, wind, CSP modeling, financial",2004 - *,sam.nrel.gov,github.com/NREL/SAM,C++,Mixed MIT/GPL 3
-ssc,Compute modules for SAM,2004 - *,sam.nrel.gov,github.com/nrel/ssc,"C, C++",Mixed MIT/GPL 3
-RdTools,Technical analysis of PV timeseries data,2016 - *,rdtools.readthedocs.io,github.com/NREL/rdtools,Python,MIT
-PVFree,API for obtaining PV modeling parameters,2015 - *,pvfree.azurewebsites.net,github.com/BreakingBytes/pvfree,Python,BSD 2
-SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,github.com/SunPower/SolarUtils,github.com/SunPower/SolarUtils,Python,BSD 3
-Pecos,Performance monitoring,2016 - *,pecos.readthedocs.io,github.com/sandialabs/pecos,Python,BSD 3
-Solpy,General purpose PV modeling,2011-2015,solpy.readthedocs.io,github.com/nrcharles/solpy,Python,LGPL 2.1
-PVMismatch,IV curve calculator for mismatched cells,2012 - *,sunpower.github.io/PVMismatch/,github.com/SunPower/PVMismatch,Python,BSD 3
-photovoltaic,General purpose PV modeling,2017 - *,github.com/trautsned/photovoltaic,github.com/trautsned/photovoltaic,Python,GPL 3
-feedinlib,PV timeseries modeling,2015 - *,github.com/oemof/feedinlib,github.com/oemof/feedinlib,Python,GPL 3
-CASSYS,PV system modeling,2015 - *,github.com/CanadianSolar/CASSYS,github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
-Bifacial PV View Factor model,Bifacial modeling,2017 - *,github.com/NREL/bifacialvf,github.com/NREL/bifacialvf,Python,Unknown
-solaR,General purpose PV modeling,2010 - *,github.com/oscarperpinan/solar,www.jstatsoft.org/article/view/v050i09,R,GPL 3
-pvfactors,Diffuse shading and bifacial irradiance modeling,2016 - *,sunpower.github.io/pvfactors/,github.com/SunPower/pvfactors,Python,BSD 3
-pvcaptest,Capacity testing per ASTM E2848,2017 - ,pvcaptest.readthedocs.io/,github.com/pvcaptest/pvcaptest,Python,MIT
-SolarData,Accessing public solar datasets,2018 - ,github.com/dazhiyang/SolarData,github.com/dazhiyang/SolarData,R,GPL 2
-SolCore,modelling solar cells and semiconductor materials,2017 -- *,solcore.solar,github.com/qpv-research-group/solcore5,Python,LGPL 3
-PVplr,analysis of Performance Loss Rates,2020 -- *,doi.org/10.1109/PVSC45281.2020.9300807,cran.r-project.org/package=PVplr,R,BSD 3
-PVAnalytics,PV data QA and analysis,2020 - *,pvanalytics.readthedocs.io,github.com/pvlib/pvanalytics,Python,MIT
-twoaxistracking,Two-axis tracker shading,2021 - *,twoaxistracking.readthedocs.io,github.com/pvlib/twoaxistracking,Python,BSD 3
+PVLib Matlab,General purpose PV modeling,2012? - *,https://pvpmc.sandia.gov,https://github.com/sandialabs/MATLAB_PV_LIB,Matlab,BSD 3
+PVLib Python,General purpose PV modeling,2013 - *,https://pvlib-python.readthedocs.io,https://github.com/pvlib/pvlib-python,Python,BSD 3
+System Advisor Model,"Desktop app for PV, wind, CSP modeling, financial",2004 - *,https://sam.nrel.gov,https://github.com/NREL/SAM,C++,Mixed MIT/GPL 3
+ssc,Compute modules for SAM,2004 - *,https://sam.nrel.gov,https://github.com/nrel/ssc,"C, C++",Mixed MIT/GPL 3
+RdTools,Technical analysis of PV timeseries data,2016 - *,https://rdtools.readthedocs.io,https://github.com/NREL/rdtools,Python,MIT
+PVFree,API for obtaining PV modeling parameters,2015 - *,https://pvfree.azurewebsites.net,https://github.com/BreakingBytes/pvfree,Python,BSD 2
+SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,https://github.com/SunPower/SolarUtils,https://github.com/SunPower/SolarUtils,Python,BSD 3
+Pecos,Performance monitoring,2016 - *,https://pecos.readthedocs.io,https://github.com/sandialabs/pecos,Python,BSD 3
+Solpy,General purpose PV modeling,2011-2015,https://solpy.readthedocs.io,https://github.com/nrcharles/solpy,Python,LGPL 2.1
+PVMismatch,IV curve calculator for mismatched cells,2012 - *,https://sunpower.github.io/PVMismatch/,https://github.com/SunPower/PVMismatch,Python,BSD 3
+photovoltaic,General purpose PV modeling,2017 - *,https://github.com/trautsned/photovoltaic,https://github.com/trautsned/photovoltaic,Python,GPL 3
+feedinlib,PV timeseries modeling,2015 - *,https://github.com/oemof/feedinlib,https://github.com/oemof/feedinlib,Python,GPL 3
+CASSYS,PV system modeling,2015 - *,https://github.com/CanadianSolar/CASSYS,https://github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
+Bifacial PV View Factor model,Bifacial modeling,2017 - *,https://github.com/NREL/bifacialvf,https://github.com/NREL/bifacialvf,Python,Unknown
+solaR,General purpose PV modeling,2010 - *,https://github.com/oscarperpinan/solar,https://jstatsoft.org/article/view/v050i09,R,GPL 3
+pvfactors,Diffuse shading and bifacial irradiance modeling,2016 - *,https://sunpower.github.io/pvfactors/,https://github.com/SunPower/pvfactors,Python,BSD 3
+pvcaptest,Capacity testing per ASTM E2848,2017 - ,https://pvcaptest.readthedocs.io/,https://github.com/pvcaptest/pvcaptest,Python,MIT
+SolarData,Accessing public solar datasets,2018 - ,https://github.com/dazhiyang/SolarData,https://github.com/dazhiyang/SolarData,R,GPL 2
+SolCore,modelling solar cells and semiconductor materials,2017 -- *,https://solcore.solar,htps://github.com/qpv-research-group/solcore5,Python,LGPL 3
+PVplr,analysis of Performance Loss Rates,2020 -- *,https://doi.org/10.1109/PVSC45281.2020.9300807,https://cran.r-project.org/package=PVplr,R,BSD 3
+PVAnalytics,PV data QA and analysis,2020 - *,https://pvanalytics.readthedocs.io,https://github.com/pvlib/pvanalytics,Python,MIT
+twoaxistracking,Two-axis tracker shading,2021 - *,https://twoaxistracking.readthedocs.io,https://github.com/pvlib/twoaxistracking,Python,BSD 3
 pvOps,Fusion of text-based data with PV production data,2021 - *,https://pvops.readthedocs.io,https://github.com/sandialabs/pvOps,Python,BSD 3
