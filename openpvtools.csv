@@ -13,7 +13,7 @@ photovoltaic,General purpose PV modeling,2017 - *,https://github.com/trautsned/p
 feedinlib,PV timeseries modeling,2015 - *,https://feedinlib.readthedocs.io,https://github.com/oemof/feedinlib,Python,GPL 3
 CASSYS,PV system modeling,2015 - *,https://github.com/CanadianSolar/CASSYS,https://github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
 Bifacial PV View Factor model,Bifacial modeling,2017 - *,https://bifacialvf.readthedocs.io,https://github.com/NREL/bifacialvf,Python,Unknown
-solaR,General purpose PV modeling,2010 - *,https://github.com/oscarperpinan/solar,https://jstatsoft.org/article/view/v050i09,R,GPL 3
+solaR,General purpose PV modeling,2010 - *,https://jstatsoft.org/article/view/v050i09,https://github.com/oscarperpinan/solar,R,GPL 3
 pvfactors,Diffuse shading and bifacial irradiance modeling,2016 - *,https://sunpower.github.io/pvfactors/,https://github.com/SunPower/pvfactors,Python,BSD 3
 pvcaptest,Capacity testing per ASTM E2848,2017 - ,https://pvcaptest.readthedocs.io/,https://github.com/pvcaptest/pvcaptest,Python,MIT
 SolarData,Accessing public solar datasets,2018 - ,https://github.com/dazhiyang/SolarData,https://github.com/dazhiyang/SolarData,R,GPL 2
