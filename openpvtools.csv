@@ -9,7 +9,7 @@ SolarUtils,Python wrappers of C solar position and spectral decomposition,2016,h
 Pecos,Performance monitoring,2016 - *,https://pecos.readthedocs.io,https://github.com/sandialabs/pecos,Python,BSD 3
 Solpy,General purpose PV modeling,2011-2015,https://solpy.readthedocs.io,https://github.com/nrcharles/solpy,Python,LGPL 2.1
 PVMismatch,IV curve calculator for mismatched cells,2012 - *,https://sunpower.github.io/PVMismatch/,https://github.com/SunPower/PVMismatch,Python,BSD 3
-photovoltaic,General purpose PV modeling,2017 - *,https://github.com/trautsned/photovoltaic,https://github.com/trautsned/photovoltaic,Python,GPL 3
+photovoltaic,General purpose PV modeling,2017 - *,https://github.com/pvedu/photovoltaic,https://github.com/pvedu/photovoltaic,Python,GPL 3
 feedinlib,PV timeseries modeling,2015 - *,https://feedinlib.readthedocs.io,https://github.com/oemof/feedinlib,Python,GPL 3
 CASSYS,PV system modeling,2015 - *,https://github.com/CanadianSolar/CASSYS,https://github.com/CanadianSolar/CASSYS,"Excel, C#",BSD 3
 Bifacial PV View Factor model,Bifacial modeling,2017 - *,https://bifacialvf.readthedocs.io,https://github.com/NREL/bifacialvf,Python,Unknown
