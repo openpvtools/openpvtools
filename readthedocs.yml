@@ -8,6 +8,4 @@ build:
 python:
     install:
         - method: pip
-          path: .
-          extra_requirements:
-              - doc
+          path: sphinx==1.8.6 sphinx_rtd_theme==0.4.3
