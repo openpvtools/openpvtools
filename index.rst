@@ -19,7 +19,7 @@ Solar power researchers and engineers are developing a growing number of open so
 
 Please see the companion paper in the Proceedings of the WCPEC-7 (2018).
 
-Also see the companion presentation at the `10th PVPMC Workshop and 2018 Systems Symposium <https://pvpmc.sandia.gov/resources-and-events/events/2018-10th-pv-performance-modeling-workshop/>`_, plus additional talks on open source PV software from DOE, NREL, and Sandia.
+Also see the companion presentation at the `10th PVPMC Workshop and 2018 Systems Symposium <https://pvpmc.sandia.gov/resources-and-events/events/2018-10th-pv-performance-modeling-workshop/>`_, plus additional talks on open source PV software from DOE, NREL, and Sandia.  Additionally, some national labs maintain their own software indexes: `Sandia <https://sandialabs.github.io/category/#/ALLSOFTWARE>`_, `NREL <https://www.nrel.gov/research/software.html>`_.
 
 We welcome your contributions to this archive! To contribute or update information on a tool, please submit a pull request to the `openpvtools GitHub repository <https://github.com/openpvtools/openpvtools>`_.
 
