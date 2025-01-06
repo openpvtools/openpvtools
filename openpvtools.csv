@@ -22,3 +22,4 @@ PVplr,analysis of Performance Loss Rates,2020 -- *,https://doi.org/10.1109/PVSC4
 PVAnalytics,PV data QA and analysis,2020 -- *,https://pvanalytics.readthedocs.io,https://github.com/pvlib/pvanalytics,Python,MIT
 twoaxistracking,Two-axis tracker shading,2021 -- *,https://twoaxistracking.readthedocs.io,https://github.com/pvlib/twoaxistracking,Python,BSD 3
 pvOps,Fusion of text-based data with PV production data,2021 -- *,https://pvops.readthedocs.io,https://github.com/sandialabs/pvOps,Python,BSD 3
+cpvlib,Simulation of concentrator photovoltaic energy systems,2020 -- *,https://cpvlib.readthedocs.io,https://github.com/isi-ies-group/cpvlib,Python,BSD 3
