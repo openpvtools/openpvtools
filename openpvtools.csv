@@ -23,4 +23,4 @@ PVAnalytics,PV data QA and analysis,2020 -- *,https://pvanalytics.readthedocs.io
 twoaxistracking,Two-axis tracker shading,2021 -- *,https://twoaxistracking.readthedocs.io,https://github.com/pvlib/twoaxistracking,Python,BSD 3
 pvOps,Fusion of text-based data with PV production data,2021 -- *,https://pvops.readthedocs.io,https://github.com/sandialabs/pvOps,Python,BSD 3
 cpvlib,Simulation of concentrator photovoltaic energy systems,2020 -- *,https://cpvlib.readthedocs.io,https://github.com/isi-ies-group/cpvlib,Python,BSD 3
-simshady,Simulating Shadows for PV Potential Analysis with 3D Data in the Browser,2023 -- *,https://open-pv.github.io/simshady/,https://github.com/open-pv/simshady,Typescript,Apache-2.0
+simshady,Parallelized Shading Simulation Using 3D Data on the GPU,2023 -- *,https://open-pv.github.io/simshady/,https://github.com/open-pv/simshady,Typescript,Apache-2.0
